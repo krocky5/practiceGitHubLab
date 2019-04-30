@@ -1,1 +1,3 @@
 IT Major at Njit
+this is an intro file.
+Shannon Malone - Computer Science
